@@ -14,5 +14,3 @@ def two_sum_2elements(lst, k):
 print(two_sum_2elements([-3, 0, 3, 4, 8], 4))
 print(two_sum_2elements([5, 6, 7, 9], 14))
 print(two_sum_2elements([-3, 0, 1, 2, 4, 8], 5))
-
-
